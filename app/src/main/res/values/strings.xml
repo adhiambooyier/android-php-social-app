@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mulika</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="register_prompt">Don\'t have an account? Register now!</string>
+    <string name="login_header">login</string>
+    <string name="register_header">register</string>
+    <string name="login_btn_text">login</string>
+</resources>
